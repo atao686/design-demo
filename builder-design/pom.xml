@@ -7,6 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>factory-method-pattern</module>
+        <module>abstract-factory-pattern</module>
     </modules>
     <name>builder-design</name>
     <description>创建者模式</description>
